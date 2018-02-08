@@ -4,9 +4,8 @@ title:  "PHP Scopes"
 date:   2018-02-04 16:19:24 -0500
 categories: PHP advanced
 ---
-The purpose of this tutorial is to help understand the PHP language features better and brush up your existing knowledge. In this blog we are going to learn about scopes in PHP.
 
-PHP Scopes
+PHP Scopes 
 
 Scope refers to the lifetime of a variable in a script. In PHP the following types of scopes are available.
 
@@ -122,7 +121,7 @@ The output will be: 1 2 3 4 5 6 7 8 9 10
 
 
 
-Thus we conclude 
+Thus we conclude the topic of scopes in PHP.
 
 
 

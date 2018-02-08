@@ -16,7 +16,7 @@
 title: Anupama's Technical Blogs
 email: sadicarnot@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This website consists of technical blogs related to PHP and Ruby on Rails. Design patterns, MVC and OOPS concepts are explained here.
+  This website consists of technical blogs related to PHP, Javascript etc. Design patterns, MVC and OOPS concepts are explained here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://Anupama-V-I-blogs.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AnupamaV2014
